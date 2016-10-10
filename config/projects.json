@@ -1,0 +1,11 @@
+{
+  "app": {
+    "path": "/Users/edward/hacking/bench-samples"
+  },
+  "ember": {
+    "path": "/Users/edward/hacking/ember.js"
+  },
+  "glimmer": {
+    "path": "/Users/edward/hacking/glimmer"
+  }
+}

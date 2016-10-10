@@ -2,6 +2,5 @@ dist
 results
 node_modules
 tmp
-config/*
 !config/*.example
-test.ts
+
