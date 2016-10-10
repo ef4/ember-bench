@@ -37,7 +37,7 @@ class EmberBench extends InitialRenderBenchmark {
       name,
       url,
       markers: [
-        { start: "welcomeToEmber", label: "welcomeToEmber" },
+        { start: "secondRenderStart", label: "secondRenderStart" }
       ],
       browser: browserOpts
     });

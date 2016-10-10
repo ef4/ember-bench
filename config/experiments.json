@@ -1,13 +1,13 @@
 [
   {
     "name":    "2-8-2",
-    "app":     "initial-render-test",
+    "app":     "second-render-test",
     "ember":   "v2.8.2",
     "glimmer": "v0.17.4"
   },
   {
     "name":    "2-9-beta-5",
-    "app":     "initial-render-test",
+    "app":     "second-render-test",
     "ember":   "v2.9.0-beta.5",
     "glimmer": "v0.17.4"
   }
